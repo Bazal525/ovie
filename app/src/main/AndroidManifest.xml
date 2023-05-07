@@ -16,6 +16,9 @@
             android:name=".konto"
             android:exported="false" />
         <activity
+            android:name=".rejestracja"
+            android:exported="false" />
+        <activity
             android:name=".logowanie"
             android:exported="false" />
         <activity
