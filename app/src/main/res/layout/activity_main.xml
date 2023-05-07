@@ -24,8 +24,8 @@
 
     <View
         android:id="@+id/kulki"
-        android:layout_width="395dp"
-        android:layout_height="784dp"
+        android:layout_width="450dp"
+        android:layout_height="900dp"
         android:background="@drawable/kulki"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
@@ -56,8 +56,7 @@
         android:background="@drawable/okragle"
         android:fontFamily="@font/nokorab"
         android:text="Zaloguj się"
-
-        app:layout_constraintBottom_toTopOf="@+id/myButton"
+        app:layout_constraintBottom_toTopOf="@+id/registerbtn"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.512"
         app:layout_constraintStart_toStartOf="parent"
@@ -65,7 +64,7 @@
         app:layout_constraintVertical_bias="1.0" />
 
     <Button
-        android:id="@+id/myButton"
+        android:id="@+id/registerbtn"
         android:layout_width="216dp"
         android:layout_height="55dp"
         android:background="@android:color/transparent"
