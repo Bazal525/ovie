@@ -16,6 +16,9 @@
             android:name=".stronaglowna"
             android:exported="false" />
         <activity
+            android:name=".wypozyczone_kupione"
+            android:exported="false" />
+        <activity
             android:name=".konto"
             android:exported="false" />
         <activity
