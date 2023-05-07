@@ -5,12 +5,12 @@ import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 
-public class konto extends AppCompatActivity {
+public class wypozyczone_kupione extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_konto);
+        setContentView(R.layout.activity_wypozyczone_kupione);
     }
 
     public void back(View view) {
