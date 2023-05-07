@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="__p__ogl_daj_gdzie_chcesz_i_kiedy_chcesz__color">#FFFFFF</color>
+    <color name="tlo">#1A1A1A</color>
+    <color name="MyColor">#FF00E6</color>
+</resources>
