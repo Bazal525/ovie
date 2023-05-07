@@ -13,6 +13,9 @@
         android:theme="@style/Theme.Aplikacja"
         tools:targetApi="31">
         <activity
+            android:name=".film"
+            android:exported="false" />
+        <activity
             android:name=".stronaglowna"
             android:exported="false" />
         <activity
