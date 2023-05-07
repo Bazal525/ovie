@@ -16,6 +16,9 @@
             android:name=".film"
             android:exported="false" />
         <activity
+            android:name=".koszyk"
+            android:exported="false" />
+        <activity
             android:name=".stronaglowna"
             android:exported="false" />
         <activity
