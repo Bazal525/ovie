@@ -2,4 +2,5 @@
     <string name="app_name">Aplikacja</string>
     <string name="__p__ogl_daj_gdzie_chcesz_i_kiedy_chcesz__string">Oglądaj gdzie \n chcesz \n i kiedy chcesz.</string>
     <string name="rejstracja">Nie masz konta?\n Zajerestruj się!</string>
+    <string name="dane">Dane\ntwojego\nkonta</string>
 </resources>
