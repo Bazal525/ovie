@@ -51,19 +51,7 @@
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.0" />
 
-    <ImageView
-        android:id="@+id/imageView"
-        android:layout_width="355dp"
-        android:layout_height="65dp"
-        android:layout_marginLeft="28dp"
-        android:layout_marginTop="790dp"
-        android:background="@drawable/okragle"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.0"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.0" />
+
 
     <ImageButton
         android:id="@+id/imageButton"
@@ -91,7 +79,7 @@
     <ImageButton
         android:layout_width="59dp"
         android:layout_height="59dp"
-
+        android:id="@+id/kontobtn"
         android:background="@drawable/baseline_person_24"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
@@ -132,5 +120,6 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.649" />
+
 
 </androidx.constraintlayout.widget.ConstraintLayout>

@@ -22,5 +22,13 @@ public class logowanie extends AppCompatActivity {
                 startActivity(intent);
             }
         });
+        Button buttonNext2 = findViewById(R.id.loginbtn);
+        buttonNext2.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(logowanie.this, stronaglowna.class);
+                startActivity(intent);
+            }
+        });
     }
 }
