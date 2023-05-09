@@ -23,8 +23,6 @@
         android:layout_height="wrap_content"
         android:background="@drawable/back"
         android:layout_marginLeft="15dp"
-        android:layout_marginLeft="15dp"
-        android:background="@drawable/back"
         android:contentDescription="A tiny Android icon"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
